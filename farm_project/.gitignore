@@ -1,0 +1,16 @@
+.*/
+/shelf/
+/workspace.xml
+/farm_back/.*
+/farm_front/.*
+/farm_front/node_modules
+/farm_front/servers
+/farm_front/build/settings.json
+/farm_front/dist
+
+
+*.pyc
+*.pyo
+
+pyenv/
+pyenv
